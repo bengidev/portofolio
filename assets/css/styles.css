@@ -215,7 +215,7 @@ img {
 .home__social-icon {
   width: max-content;
   margin-bottom: var(--mb-2);
-  font-size: 1.5rem;
+  font-size: 2.5rem;
   color: var(--second-color);
 }
 
@@ -320,20 +320,36 @@ img {
   z-index: var(--z-back);
 }
 
-.skills__html {
-  width: 95%;
+.skills__github {
+  width: 60%;
 }
 
-.skills__css {
-  width: 85%;
+.skills__java {
+  width: 40%;
 }
 
-.skills__js {
-  width: 65%;
+.skills__anstu {
+  width: 40%;
 }
 
-.skills__ux {
-  width: 85%;
+.skills__xml {
+  width: 40%;
+}
+
+.skills__mysql {
+  width: 20%;
+}
+
+.skills__firebase {
+  width: 20%;
+}
+
+.skills__retrofit {
+  width: 20%;
+}
+
+.skills__lumen {
+  width: 20%;
 }
 
 .skills__img {
@@ -412,7 +428,7 @@ img {
   padding-top: 15px;
   padding-left: 5px;
   font-family: var(--body-font);
-  font-size: 1.2rem;
+  font-size: 0.8rem;
 }
 
 /* ===== MEDIA QUERIES=====*/
