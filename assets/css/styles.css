@@ -320,24 +320,28 @@ img {
   z-index: var(--z-back);
 }
 
-.skills__github {
-  width: 60%;
+.skills__dart {
+  width: 50%;
 }
 
-.skills__java {
-  width: 40%;
+.skills__flutter {
+  width: 50%;
+}
+
+.skills__git {
+  width: 50%;
 }
 
 .skills__anstu {
-  width: 40%;
+  width: 70%;
 }
 
-.skills__xml {
-  width: 40%;
+.skills__vscode {
+  width: 50%;
 }
 
 .skills__mysql {
-  width: 20%;
+  width: 30%;
 }
 
 .skills__firebase {
@@ -345,11 +349,11 @@ img {
 }
 
 .skills__retrofit {
-  width: 20%;
+  width: 30%;
 }
 
 .skills__lumen {
-  width: 20%;
+  width: 30%;
 }
 
 .skills__img {
@@ -407,15 +411,15 @@ img {
 
 .footer__title {
   font-size: 2rem;
-  margin-bottom: var(--mb-4);
 }
 
 .footer__social {
+  margin-top: var(--mb-4);
   margin-bottom: var(--mb-4);
 }
 
 .footer__icon {
-  font-size: 1.5rem;
+  font-size: 1.0rem;
   color: #fff;
   margin: 0 var(--mb-2);
 }
