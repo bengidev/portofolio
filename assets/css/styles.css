@@ -320,40 +320,56 @@ img {
   z-index: var(--z-back);
 }
 
-.skills__dart {
+.skills__xcode {
+  width: 70%;
+}
+
+.skills__swift {
   width: 50%;
 }
 
-.skills__flutter {
+.skills__uikit {
   width: 50%;
+}
+
+.skills__swiftui {
+  width: 50%;
+}
+
+.skills__storyboards {
+  width: 50%;
+}
+
+.skills__cocoatouch {
+  width: 50%;
+}
+
+.skills__cocoapods {
+  width: 70%;
+}
+
+.skills__spm {
+  width: 70%;
+}
+
+.skills__coredata {
+  width: 30%;
+}
+
+.skills__restapis {
+  width: 30%;
+}
+
+.skills__sql {
+  width: 20%;
+}
+
+.skills__firebase {
+  width: 30%;
 }
 
 .skills__git {
   width: 50%;
-}
-
-.skills__anstu {
-  width: 70%;
-}
-
-.skills__vscode {
-  width: 50%;
-}
-
-.skills__mysql {
-  width: 30%;
-}
-
-.skills__firebase {
-  width: 20%;
-}
-
-.skills__retrofit {
-  width: 30%;
-}
-
-.skills__lumen {
-  width: 30%;
 }
 
 .skills__img {
